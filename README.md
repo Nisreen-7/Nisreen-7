@@ -16,7 +16,7 @@
 - ❓ Posez-moi des questions sur tout ce qui concerne le développement et les technologies connexes.  
   
 
-- ⚡ Fait amusant : J'utilise le tab plutôt que l'espace.  
+- ⚡ Fait amusant : Je code en écoutant de la musique classique à fond.  
   
 
 <br/>  
