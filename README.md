@@ -7,7 +7,7 @@
 ### <div align="center">Je suis Nisreen Khattam, une développeuse full-stack 👩‍💻 à la recherche d'un emploi pour mon avenir professionnel 🚀</div>  
   
 
-- 🔭 Je viens d'obtenir mon titre professionnel.  
+- 🔭 Je viens d'obtenir mon titre professionnel Développeur Web et Web Mobile.  
   
 
 - 🌱J'ai la nature et le codage  
