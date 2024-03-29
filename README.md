@@ -10,7 +10,7 @@
 - 🔭 Je viens d'obtenir mon titre professionnel.  
   
 
-- 🌱J'ai la nature et le cogage  
+- 🌱J'ai la nature et le codage  
   
 
 - ❓ Posez-moi des questions sur tout ce qui concerne le développement et les technologies connexes.  
