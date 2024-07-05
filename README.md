@@ -88,11 +88,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Nisreen-7&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;">
     </a>
     <br>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=Nisreen-7&theme=light&hide_border=false">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisreen-7&theme=light&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;">
     </a>
     <br>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisreen-7&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisreen-7&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;">
     </a>
 </p>
