@@ -101,34 +101,7 @@
 ## Recent Blog Posts  
   
 
-<br/>  
-
-<div align="center"><img src="https://images.pexels.com/photos/11011357/pexels-photo-11011357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"  width="75px" class="border-radius"/></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nisreen-7&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/Nisreen Khattam" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/Nisreen-7" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
+<p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/97387ff8314a55006cbf1b17422c1a89ac66ba526f1527e5f9db3266351787b5/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d72616d6d636f6465732669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=Nisreen-7&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
