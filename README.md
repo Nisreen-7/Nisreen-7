@@ -98,7 +98,7 @@
 </p>
 
 
-## Recent Blog Posts  
+<br/> 
   
 
 <p dir="auto" align="center">
@@ -106,7 +106,5 @@
         <img src="https://camo.githubusercontent.com/97387ff8314a55006cbf1b17422c1a89ac66ba526f1527e5f9db3266351787b5/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d72616d6d636f6465732669636f6e3d3026636f6c6f723d30" alt="Visitor Count" data-canonical-src="https://visitcount.itsvg.in/api?id=Nisreen-7&amp;icon=0&amp;color=0" style="max-width: 100%;">
     </a>
 </p>
-<div align="center">
-    Généré avec <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-</div>
+
 
